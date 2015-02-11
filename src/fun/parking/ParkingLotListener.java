@@ -6,6 +6,6 @@ package fun.parking;
 public interface ParkingLotListener {
     public void notifyParkingFull();
     public void notifyParkingFillingFast();
-    public void notifyParkingAvailable();
+   // public void notifyParkingAvailable();
 
 }
